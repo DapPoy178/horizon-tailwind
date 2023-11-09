@@ -1,0 +1,92 @@
+[
+  {
+    "id": 5,
+    "name": "Camera",
+    "user": "Mafalda Kirlin",
+    "status": "1",
+    "date": "2018-03-26",
+    "created_at": "2023-06-15T06:45:37.000000Z",
+    "updated_at": "2023-06-15T06:45:37.000000Z"
+  },
+  {
+    "id": 8,
+    "name": "Fingerprint",
+    "user": "Cheyanne Price",
+    "status": "1",
+    "date": "2021-08-21",
+    "created_at": "2023-06-15T06:45:37.000000Z",
+    "updated_at": "2023-06-15T06:45:37.000000Z"
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "user": "Mya Ondricka",
+    "status": "1",
+    "date": "2017-04-05",
+    "created_at": "2023-06-15T06:45:37.000000Z",
+    "updated_at": "2023-06-15T06:45:37.000000Z"
+  },
+  {
+    "id": 3,
+    "name": "Monitor",
+    "user": "Eleanora Gleason",
+    "status": "1",
+    "date": "1993-12-24",
+    "created_at": "2023-06-15T06:45:37.000000Z",
+    "updated_at": "2023-06-15T06:45:37.000000Z"
+  },
+  {
+    "id": 1,
+    "name": "Printer",
+    "user": "Kayden Douglas",
+    "status": "1",
+    "date": "1991-09-15",
+    "created_at": "2023-06-15T06:45:37.000000Z",
+    "updated_at": "2023-06-15T06:45:37.000000Z"
+  },
+  {
+    "id": 6,
+    "name": "Recorder",
+    "user": "Fredy Ferry",
+    "status": "0",
+    "date": "1996-03-13",
+    "created_at": "2023-06-15T06:45:37.000000Z",
+    "updated_at": "2023-06-15T06:45:37.000000Z"
+  },
+  {
+    "id": 4,
+    "name": "Scanner",
+    "user": "Annabell Kunze",
+    "status": "0",
+    "date": "2017-08-02",
+    "created_at": "2023-06-15T06:45:37.000000Z",
+    "updated_at": "2023-06-15T06:45:37.000000Z"
+  },
+  {
+    "id": 9,
+    "name": "Server",
+    "user": "Hester Stoltenberg",
+    "status": "0",
+    "date": "1997-08-04",
+    "created_at": "2023-06-15T06:45:37.000000Z",
+    "updated_at": "2023-06-15T06:45:37.000000Z"
+  },
+  {
+    "id": 7,
+    "name": "Sound System",
+    "user": "Ralph McLaughlin IV",
+    "status": "0",
+    "date": "2022-02-04",
+    "created_at": "2023-06-15T06:45:37.000000Z",
+    "updated_at": "2023-06-15T06:45:37.000000Z"
+  },
+  {
+    "id": 10,
+    "name": "Switch",
+    "user": "Mrs. Marguerite Schaden",
+    "status": "1",
+    "date": "1998-01-12",
+    "created_at": "2023-06-15T06:45:37.000000Z",
+    "updated_at": "2023-06-15T06:45:37.000000Z"
+  }
+]

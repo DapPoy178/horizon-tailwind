@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Printer",
+    "user": "People",
+    "status": "Returned",
+    "date": "24 - Jan - 2021"
+  },
+  {
+    "name": "Laptop",
+    "user": "People",
+    "status": "In Use",
+    "date": "30 - Dec - 2021"
+  },
+  {
+    "name": "Sound System",
+    "user": "People",
+    "status": "Returned",
+    "date": "20 - May - 2021"
+  },
+  {
+    "name": "Scanner",
+    "user": "People",
+    "status": "In Use",
+    "date": "12 - Jul - 2021"
+  }
+]
